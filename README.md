@@ -1,1 +1,0 @@
-NuvoBio is an Ottawa-based company specializing in AI-assisted peptide binder design. We leverage our DarwinAI proprietary algorithm to produce peptide binders using a dual-objective optimization method to produce peptides that bind to your target protein, but to as few off-target proteins as possible.
